@@ -1,4 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Built With
+
+- [Next.js](https://nextjs.org/) - The web framework used
+- [Tailwind CSS](https://tailwindcss.com/) - The CSS framework used
+
+## Responsive Design
+
+The page is designed to be responsive and work on all screen sizes. I used Tailwind CSS's responsive design utilities and the flexbox layout to achieve this.
+
+## Visual Parity
+
+I made an effort to achieve visual parity with the design as closely as possible. However, in some cases it was not possible to achieve exact visual parity due to differences in implementation between the design and the final product. In such cases, I have tried to use the most similar styles available.
+
 
 ## Getting Started
 
